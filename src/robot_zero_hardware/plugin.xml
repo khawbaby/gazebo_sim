@@ -1,0 +1,5 @@
+<library path="robot_zero_hardware">
+  <class name="robot_zero/RobotZeroHardware"
+         type="RobotZeroHardware"
+         base_class_type="hardware_interface::SystemInterface"/>
+</library>
